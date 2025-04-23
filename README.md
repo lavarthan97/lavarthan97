@@ -22,7 +22,9 @@
 
 </br>
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavarthan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/lavarthan/github-readme-stats)
+</div>
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
