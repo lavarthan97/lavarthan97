@@ -18,13 +18,17 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavarthan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lavarthan's Github Stats">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lavarthan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lavarthan's Github Stats">
+</p>
 
-</br>
+<br/>
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavarthan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/lavarthan/github-readme-stats)
-</div>
+<p align="center">
+  <a href="https://github.com/lavarthan/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavarthan&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Langs">
+  </a>
+</p>
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
