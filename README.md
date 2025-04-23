@@ -2,7 +2,7 @@
 
 <h3><b> 👨🏻‍💻 About Me <b></h3>
 
-- 🔭 &nbsp; Software Engineer | University of Moratuwa Graduate (Department of Computer Science)
+- 🔭 &nbsp; Software Engineer | B.Sc. (Hons) in Computer Science and Engineering, University of Moratuwa
 - 🤔 &nbsp; Exploring new technologies, learning new hacks, and diving into AI.
 - 🤖 &nbsp; Currently working predominantly with AI technologies.
 - ✍️ &nbsp; Watching Movies and listening to music
