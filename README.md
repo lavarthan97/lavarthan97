@@ -1,62 +1,37 @@
-<p align="center">
-  <img alt="Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-</p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-## 👋 Hello there! I'm Lavarthan
 
-I'm a **University of Moratuwa graduate** passionate about exploring new technologies and continuously learning. My focus areas include **Computer Science, programming, and Mathematics**. Currently, I'm working as a **Freelancer**.
+<h3><b> 👨🏻‍💻 About Me <b></h3>
 
-- 🤔 &nbsp; Always exploring new technologies and learning new hacks.
-- 🎓 &nbsp; Deep diving into Computer Science concepts and Mathematics.
-- 💼 &nbsp; Available for freelance opportunities.
-- 🎬 &nbsp; In my downtime, I enjoy watching movies and listening to music.
-- ☕ &nbsp; I believe a perfect cup of tea can be the ultimate solution for any stress.
+- 🔭 &nbsp; University of Moratuwa graduate
+- 🤔 &nbsp; Exploring new technologies and learning new hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Freelancer.
+- ✍️ &nbsp; Watching Movie and listening to music
+- ☕ &nbsp; I belive, a perfect cup of tea can be the ultimate solution for any stress. 
 
----
+<h3>🛠 Tech Stack</h3>
 
-## 🛠️ My Tech Stack
+- 💻 &nbsp; Python | Java 
+- 🌐 &nbsp; HTML | CSS | PHP | Bootstrap 
+- 🛢 &nbsp; MySQL | Azure | Xampp | SQL server
+- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
 
-Here are some of the technologies and tools I work with:
 
-#### Programming Languages
-- `Python`
-- `Java`
+<br>
 
-#### Web Technologies
-- `HTML`
-- `CSS`
-- `PHP`
-- `Bootstrap`
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavarthan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lavarthan's Github Stats">
 
-#### Databases & Cloud
-- `MySQL`
-- `Microsoft SQL Server`
-- `Azure`
+</br>
 
-#### Development Tools & Environment
-- `Git`
-- `PyCharm`
-- `Visual Studio Code`
-- `Eclipse`
-- `XAMPP`
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavarthan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/lavarthan/github-readme-stats)
 
----
 
-## 📊 My GitHub Stats
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lavarthan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lavarthan's Github Stats" />
-  <br/> <br/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavarthan&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Languages" />
+&nbsp; <a href="https://www.instagram.com/lavarthan/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/lavarthan-selvaratnam/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:lavarthan97@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
----
-
-## 🤝🏻 Connect with Me
-
-Feel free to reach out or connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lavarthan-selvaratnam/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/lavarthan/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" alt="Instagram"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:lavarthan97@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" alt="Gmail"/></a>
-</p>
