@@ -25,7 +25,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/lavarthan/github-readme-stats">
+  <a href="https://github.com/lavarthan97/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavarthan&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Langs">
   </a>
 </p>
