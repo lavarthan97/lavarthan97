@@ -19,12 +19,12 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-oo4ka4eqt-lavarthans-projects.vercel.app/api?username=lavarthan97&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000&v=1" alt="lavarthan's GitHub Stats">
+  <img decoding="async" loading="lazy" src="https://github-readme-stats-oo4ka4eqt-lavarthans-projects.vercel.app/api?username=lavarthan97&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=000000&v=1" alt="lavarthan's GitHub Stats">
 </p>
 
 <p align="center">
   <a href="https://github.com/lavarthan97/github-readme-stats">
-    <img src="https://github-readme-stats-oo4ka4eqt-lavarthans-projects.vercel.app/api/top-langs/?username=lavarthan97&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Langs">
+    <img decoding="async" loading="lazy" src="https://github-readme-stats-oo4ka4eqt-lavarthans-projects.vercel.app/api/top-langs/?username=lavarthan97&layout=compact&text_color=daf7dc&bg_color=151515" alt="Top Langs">
   </a>
 </p>
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
