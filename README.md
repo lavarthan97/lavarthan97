@@ -5,8 +5,6 @@
 - 🔭 Senior Software Engineer | B.Sc. (Hons) in Computer Science and Engineering, University of Moratuwa  
 - 🤔 Exploring new technologies, learning new hacks, and diving into AI  
 - 🤖 Currently working predominantly with AI technologies  
-- ✍️ Watching movies and listening to music  
-- ☕ I believe a perfect cup of tea can be the ultimate solution for any stress  
 
 ---
 
