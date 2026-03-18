@@ -1,4 +1,4 @@
-<img align="right" alt="AI Engineer GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="430"/>
+<img align="right" alt="Engineer GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="430"/>
 
 # 👋 Hi, I'm Lavarthan
 
